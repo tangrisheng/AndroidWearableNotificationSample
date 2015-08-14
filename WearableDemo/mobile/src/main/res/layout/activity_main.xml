@@ -1,0 +1,72 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_notification"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/notification" />
+
+    <Button
+        android:id="@+id/btn_notification_old"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/notification_old" />
+
+    <Button
+        android:id="@+id/btn_wearable_only"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/wearable_only" />
+
+    <Button
+        android:id="@+id/btn_bigstyle"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/big_style" />
+
+    <Button
+        android:id="@+id/btn_features"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/features" />
+
+    <Button
+        android:id="@+id/btn_voise_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/voise_input" />
+
+    <Button
+        android:id="@+id/btn_pre_defined"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pre_defined" />
+
+    <Button
+        android:id="@+id/btn_pages"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/pages" />
+
+    <Button
+        android:id="@+id/btn_stacking"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/stacking_notification" />
+
+    <Button
+        android:id="@+id/btn_summary"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/summary_notification" />
+
+</LinearLayout>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WearableDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="notification">notification</string>
+    <string name="title_activity_second">SecondActivity</string>
+    <string name="notification_old">notification old</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="wearable_only">wearable only</string>
+    <string name="big_style">big style</string>
+    <string name="features">features</string>
+    <string name="voise_input">voise input</string>
+    <string name="pages">pages</string>
+    <string name="stacking_notification">stacking notification</string>
+    <string name="summary_notification">summary notification</string>
+    <string name="pre_defined">per-defined</string>
+    <string-array name="reply_choises">
+        <item>Yes</item>
+        <item>No</item>
+        <item>Maybe</item>
+    </string-array>
+</resources>
